@@ -1,0 +1,5 @@
+﻿  Search tree.cpp
+C:\Users\sa_bo\source\repos\Search tree\Search tree.cpp(217,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\sa_bo\source\repos\Search tree\Search tree.cpp(218,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\sa_bo\source\repos\Search tree\Search tree.cpp(269,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Search tree.vcxproj -> C:\Users\sa_bo\source\repos\Search tree\x64\Debug\Search tree.exe
