@@ -221,12 +221,12 @@ public:
                 {
                     bool check_position = false;
                     int index_position;
-                    for (int suka = 0; suka < vec_data.size(); suka++)
+                    for (int k = 0; k < vec_data.size(); k++)
                     {
-                        if (level == vec_level[suka] and counter_position == vec_position[suka])
+                        if (level == vec_level[k] and counter_position == vec_position[k])
                         {
                             check_position = true;
-                            index_position = suka;
+                            index_position = k;
                             break;
                         }
                     }
