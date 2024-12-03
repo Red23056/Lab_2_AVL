@@ -1,0 +1,4 @@
+﻿  RBTree.cpp
+C:\Users\sa_bo\source\repos\RBTree\RBTree.cpp(192,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\sa_bo\source\repos\RBTree\RBTree.cpp(193,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  RBTree.vcxproj -> C:\Users\sa_bo\source\repos\RBTree\x64\Debug\RBTree.exe
