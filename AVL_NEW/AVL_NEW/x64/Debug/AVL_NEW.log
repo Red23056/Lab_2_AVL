@@ -1,0 +1,4 @@
+﻿  AVL_NEW.cpp
+C:\Users\sa_bo\source\repos\AVL_NEW\AVL_NEW.cpp(52,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\sa_bo\source\repos\AVL_NEW\AVL_NEW.cpp(53,19): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  AVL_NEW.vcxproj -> C:\Users\sa_bo\source\repos\AVL_NEW\x64\Debug\AVL_NEW.exe
