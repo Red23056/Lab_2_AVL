@@ -59,10 +59,10 @@ void print_tree(node* root_parent)
             if (j == new_position) {
                 bool check_position = false;
                 int index_position;
-                for (int suka = 0; suka < matrix_data.size(); suka++) {
-                    if (level == matrix_level[suka] and counter_position == matrix_position[suka]) {
+                for (int k = 0; k < matrix_data.size(); k++) {
+                    if (level == matrix_level[k] and counter_position == matrix_position[k]) {
                         check_position = true;
-                        index_position = suka;
+                        index_position = k;
                         break;
                     }
                 }
